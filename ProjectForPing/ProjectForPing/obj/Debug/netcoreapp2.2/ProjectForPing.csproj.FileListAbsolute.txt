@@ -1,0 +1,12 @@
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\bin\Debug\netcoreapp2.2\ProjectForPing.deps.json
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\bin\Debug\netcoreapp2.2\ProjectForPing.runtimeconfig.json
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\bin\Debug\netcoreapp2.2\ProjectForPing.runtimeconfig.dev.json
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\bin\Debug\netcoreapp2.2\ProjectForPing.dll
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\obj\Debug\netcoreapp2.2\ProjectForPing.csproj.CoreCompileInputs.cache
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\obj\Debug\netcoreapp2.2\ProjectForPing.AssemblyInfoInputs.cache
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\obj\Debug\netcoreapp2.2\ProjectForPing.AssemblyInfo.cs
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\bin\Debug\netcoreapp2.2\ProjectForPing.dll.config
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\bin\Debug\netcoreapp2.2\ProjectForPing.pdb
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\obj\Debug\netcoreapp2.2\ProjectForPing.csprojAssemblyReference.cache
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\obj\Debug\netcoreapp2.2\ProjectForPing.dll
+C:\Users\narekk\source\repos\ProjectForPing\ProjectForPing\obj\Debug\netcoreapp2.2\ProjectForPing.pdb
